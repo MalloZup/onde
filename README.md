@@ -1,6 +1,10 @@
 # Onde
 
-**TODO: Add description**
+Performance tests for web-application.
+
+# Prerequisite:
+
+`npm install -g phantomjs-prebuilt`
 
 ## Installation
 
